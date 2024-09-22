@@ -1,3 +1,5 @@
+import 'package:studyhive/models/user.dart';
+
 class Announcement {
   final String id;
   final String subject;
